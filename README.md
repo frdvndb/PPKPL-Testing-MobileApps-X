@@ -1,8 +1,8 @@
 # PPKPL UAS - Testing - M. FARID PEBRIAN - NIM. 211087210015
-PPKPL-Testing /n
-Aplikasi Mobile : X (Twitter) /n
-NAMA : M. FARID PEBRIAN /n
-NIM  : 211087210015 /n
+PPKPL-Testing \
+Aplikasi Mobile : X (Twitter) \
+NAMA : M. FARID PEBRIAN \
+NIM  : 211087210015 \
 
 # Cara Penggunaan Testing
 1. Gunakan src/test/java/AppiumTest.java
