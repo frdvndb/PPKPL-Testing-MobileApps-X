@@ -2,7 +2,7 @@
 PPKPL-Testing \
 Aplikasi Mobile : X (Twitter) \
 NAMA : M. FARID PEBRIAN \
-NIM  : 211087210015 \
+NIM  : 211087210015
 
 # Cara Penggunaan Testing
 1. Gunakan src/test/java/AppiumTest.java
